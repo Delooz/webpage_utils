@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2020-08-26 14:13:52 +0000</dc:date>
+  </metadata>
+  <g id="Master" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Master</title>
+    <g id="Master: Pointer">
+      <title>Pointer</title>
+      <g id="Graphic_3">
+        <title>Bézier</title>
+        <path d="M 256.00052 0 C 160.32607 0 82.5 77.83524 82.5 173.49655 C 82.5 243.55707 181.45155 410.67885 242.48 504.66126 C 248.8339 514.44625 263.1661 514.44625 269.52 504.66126 C 330.54845 410.67885 429.5 243.55707 429.5 173.49655 C 429.5 77.83524 351.67393 0 256.00052 0 Z M 256.00052 311.73737 C 179.77682 311.73737 117.7689 249.71896 117.7689 173.49655 C 117.7689 97.27518 179.77787 35.26726 256.00052 35.26726 C 332.22318 35.26726 394.23214 97.27518 394.23214 173.49655 C 394.23214 249.71896 332.22318 311.73737 256.00052 311.73737 Z" fill="#287cc7"/>
+      </g>
+    </g>
+    <g id="Master: Invisible Circle">
+      <title>Invisible Circle</title>
+      <g id="Graphic_4">
+        <title>Circle 512x512</title>
+        <path d="M 437.01906 74.98095 C 536.99365 174.95505 536.99365 337.04497 437.01906 437.01906 C 337.04497 536.99365 174.95505 536.99365 74.98095 437.01906 C -24.99365 337.04497 -24.99365 174.95505 74.98095 74.98095 C 174.95505 -24.99365 337.04497 -24.99365 437.01906 74.98095" fill="white" fill-opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
